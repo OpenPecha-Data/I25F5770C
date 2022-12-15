@@ -1,0 +1,26 @@
+id: I25F5770C
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-15 07:21:51.232972+00:00
+last_modified: 2022-12-15 07:21:51.232980+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-087-009
+  eft-text-version: 1.1.6 2021
+  title: Toh_504-Account_of_the_Previous_Aspirations_of_Bhaisajyaguruvaiduryaprabha-v2
+bases:
+  99F1:
+    source_metadata: null
+    order: 1
+    base_file: 99F1.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
